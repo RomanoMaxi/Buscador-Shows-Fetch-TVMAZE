@@ -6,5 +6,4 @@ Al buscar el Show se trae la descripción de cada show, su imagen y su puntaje. 
 
 Además se configuró para que si el show no tiene imagen se le asgine una por defecto, con un link de referencia a la página de TVMaze para ver la información completa.
 
-A continuación una imagen de como queda:
-![Prueba de la API](assets/muestra.png)
+[Prueba Aplicación API TV Maze](https://conferenciasbsas.000webhostapp.com/Buscador-Shows-Fetch-TVMAZE/api-tv-shows.html)
